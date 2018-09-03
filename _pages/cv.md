@@ -12,13 +12,12 @@ You can download my CV as .pdf file [here](https://github.com/jstuckatz/janstuck
 
 Education
 ======
-* Ph.D. in Political Science, London School of Economics and Political Science, expected 08/2019
-  * Visiting Ph.D. Student at Massachusetts Institute of Technology, Political Science Department, 08/2017 - 05/2018
-
-* MRes in Political Science, London School of Economics and Political Science, _with distinction_ 09/2016
+* **Ph.D. in Political Science, London School of Economics and Political Science**, expected 08/2019
+  * Visiting Ph.D. Student at Massachusetts Institute of Technology, Political Science Department, 08/2017 - 05/2018 
+  * MRes in Political Science, London School of Economics and Political Science, _with distinction_ 09/2016
  
-* MA in Political Science, Free University Berlin, 08/2015
+* **MA in Political Science, Free University Berlin**, 08/2015
   * Visiting Ph.D. Student at Vanderbilt University, Political Science Department,  08/2017 - 05/2018
   
-* BA in Social Studies, European University Viadrina Frankfurt (Oder), 03/2012
+* **BA in Social Studies, European University Viadrina Frankfurt (Oder)**, 03/2012
 
