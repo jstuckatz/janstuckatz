@@ -30,6 +30,7 @@ in red compared to blue states.
 
 
 * **Political Uncertainty, FDI, and Trade in intermediate Goods: Evidence From Ukrainian Firms**, _with Oleksandr Shepotylo_
+  * _[link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2983695)_
   * **Abstract**: We extend a model with heterogeneous firms and argue that trade policy uncertainty (TPU) 
   negatively impacts firm-specific investment and firm-level decision to source intermediate goods. 
   We look at Ukraine’s trade relations with EU and Russia to measure
@@ -43,5 +44,6 @@ in red compared to blue states.
   more protected goods respond stronger to a reduction in TPU. The novel measure
   of uncertainty can be easily applied to other cases where governments face multiple
   mutually exclusive policy options.
+ 
  
  
