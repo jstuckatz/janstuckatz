@@ -1,10 +1,10 @@
 ---
 title: "IR209: International Political Economy"
 collection: teaching
-type: "Undergraduate course"
+type: "undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "London School of Economics and Political Science"
-date: Summer School 2017, 2018
+date: 2017-01-01
 location: "London, United Kingdom"
 ---
 
