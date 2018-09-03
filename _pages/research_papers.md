@@ -6,9 +6,6 @@ author_profile: true
 redirect_from: 
 
 ---
-
-[Government Department](http://www.lse.ac.uk/government)
-
 * **Political Alignment between Firms and Employees: The Role of Asset Specificity**
 
   * **Abstract**: In this paper, I investigate the economic sources of individuals’ political
@@ -32,6 +29,7 @@ in red compared to blue states.
 
 
 * **Political Uncertainty, FDI, and Trade in intermediate Goods: Evidence From Ukrainian Firms**, with Oleksandr Shepotylo, _under review_
+  * Click [here for link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2983695)
   * **Abstract**: We extend a model with heterogeneous firms and argue that trade policy uncertainty (TPU) 
   negatively impacts firm-specific investment and firm-level decision to source intermediate goods. 
   We look at Ukraine’s trade relations with EU and Russia to measure
