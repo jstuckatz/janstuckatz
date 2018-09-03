@@ -79,12 +79,12 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Jan Stuckatz"
   avatar           : "web_photo.jpg"
   bio              : "PhD Candidate in Political Science @LSE"
   location         : "London, UK"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "" # here put google scholar account
   email            :
   uri              :
   bitbucket        :
