@@ -12,7 +12,7 @@ You can download my CV as .pdf file [here](https://github.com/jstuckatz/janstuck
 
 Education
 ======
-* **Ph.D. Political Science, London School of Economics & Political Science**, expected 08/2019
+* **Ph.D. Political Science, London School of Economics & Political Science**, exp. 08/2019
   * Visiting Ph.D. Student at Massachusetts Institute of Technology, Political Science Department, 08/2017 - 05/2018 
   * MRes in Political Science, London School of Economics and Political Science, _with distinction_ 09/2016
  
