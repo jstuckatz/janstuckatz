@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Brief Bio
-======
+
+
 I am a PhD candidate at [Government Department](http://www.lse.ac.uk/government) of the [London School of Economics and Political Science](http://www.lse.ac.uk/). I study the International Political Economy of Trade with a special emphasis on firm-level analysis.
 
 I conduct research on political alignment between corporations and their employees using large-scale lobbying and campaign contributions in the United States.
