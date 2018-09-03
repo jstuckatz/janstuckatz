@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate at [Government Department](http://www.lse.ac.uk/government) of the [London School of Economics and Political Science](www.lse.ac.uk). I study the Political Economy of International Trade and Money in Politics.
+I am a PhD candidate at [Government Department](http://www.lse.ac.uk/government) of the [London School of Economics and Political Science](www.lse.ac.uk). I study the Political Economy of International Trade and Corporate Influence in Politics.
 
 I investigate the impact of political uncertainty on firm-level trade and investment, as well as the economic determinants and effects of political alignment between corporations and their employees. Moreover, I study how companies combine lobbying and campaign finance in order to influence politics. 
 
