@@ -4,7 +4,7 @@ collection: teaching
 type: "undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "LSE-Peking University Summer School"
-date: Summer Term 2018
+date: 2018-01-01
 location: "Peking, China"
 ---
 
