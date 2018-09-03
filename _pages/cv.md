@@ -20,4 +20,3 @@ Education
   * Visiting Ph.D. Student at Vanderbilt University, Political Science Department,  08/2017 - 05/2018
   
 * **BA Social Studies, European University Viadrina Frankfurt (Oder)**, 03/2012
-
