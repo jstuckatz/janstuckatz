@@ -6,10 +6,6 @@ author_profile: true
 redirect_from:
 ---
 
-[Government Department](http://www.lse.ac.uk/government)
-
-{% include base_path %}
-
 * **Political Alignment between Firms and Employees: The Role of Asset Specificity**
 
   * **Abstract**: In this paper, I investigate the economic sources of individuals’ political
