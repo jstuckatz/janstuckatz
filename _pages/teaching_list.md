@@ -12,7 +12,7 @@ redirect_from:
   * Graduate teaching Assistant, LSE Summer School, undergraduate, Summer Term 2017, Summer Term 2018
   * Course Convenor: _Dr. Jeffrey Chwieroth_
 
-* **EC210: The International Financial System in Post-Crisis World. Lessons for Asia and Beyond.** [link to course](http://www.lse.ac.uk/study-at-lse/Summer-Schools/lse-pku-summer-school/courses/lps-ec210)
+* **EC210: The International Financial System in Post-Crisis World.** [link to course](http://www.lse.ac.uk/study-at-lse/Summer-Schools/lse-pku-summer-school/courses/lps-ec210)
   * Graduate teaching Assistant, LSE-Peking University Summer School, undergraduate, Summer Term 2018
   * Course Convenor: _Dr. Jeffrey Chwieroth_
  
