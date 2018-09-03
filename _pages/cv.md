@@ -9,51 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my CV as .pdf file [here](https://github.com/jstuckatz/janstuckatz/blob/master/files/CV_EN_full_web.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Political Science, London School of Economics and Political Science, expected 08/2019
+  * Visiting Ph.D. Student at Massachusetts Institute of Technology, Political Science Department, 08/2017 - 05/2018
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* MRes in Political Science, London School of Economics and Political Science, _with distinction_ 09/2016
+ 
+* MA in Political Science, Free University Berlin, 08/2015
+  * Visiting Ph.D. Student at Vanderbilt University, Political Science Department,  08/2017 - 05/2018
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* BA in Social Studies, European University Viadrina Frankfurt (Oder), 03/2012
+
+  
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
