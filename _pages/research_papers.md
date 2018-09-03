@@ -20,12 +20,8 @@ First, I match 1,691,790 campaign contribution filings of 85,109 individuals to 
 publicly listed firms and 850 occupations using US campaign finance data between
 2003 and 2016. I accomplish this by employing natural language processing techniques
 to automatically identify employer names and employee occupations. Second,
-I show descriptively that most of the variation in partisan alignment between company
-and employee donations is at the industry level. This goes contrary to
-the recent political economy of trade literature emphasizing individual occupations
-within firms as a main source of individual trade preferences. Third, I test empirically
-the effect of asset specificity on partisan alignment between employees and their
-employers. I find that employees in companies with more non-mobile assets are more
+I show that most of the variation in partisan alignment between company
+and employee donations is at the industry level. Third, I find that employees in companies with more non-mobile assets are more
 aligned. I also find that this relationship
 differs by partisanship of alignment: while Republican alignment is higher in sectors
 with more specific assets, Democratic alignment is systematically lower. Similarly, I
