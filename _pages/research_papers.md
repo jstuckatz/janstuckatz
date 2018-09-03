@@ -1,9 +1,10 @@
 ---
-layout: archive
-title: "Research"
 permalink: /research/
+title: "Research"
+excerpt: "Current Research"
 author_profile: true
-redirect_from:
+redirect_from: 
+
 ---
 
 * **Political Alignment between Firms and Employees: The Role of Asset Specificity**
