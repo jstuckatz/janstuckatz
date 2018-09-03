@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "EC210: The International Financial System in a Post-Crisis World"
 collection: teaching
-type: "Workshop"
+type: "undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "LSE-Peking University Summer School"
+date: Summer Term 2018
+location: "Peking, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
