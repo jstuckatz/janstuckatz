@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -23,11 +22,3 @@ Education
   
 * BA in Social Studies, European University Viadrina Frankfurt (Oder), 03/2012
 
-  
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
