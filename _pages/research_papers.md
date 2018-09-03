@@ -9,6 +9,9 @@ redirect_from:
 {% include base_path %}
 
 * **Political Alignment between Firms and Employees: The Role of Asset Specificity**
+
+<span style=“color:red;”> text </span>
+
   * **Abstract**: In this paper, I investigate the economic sources of individuals’ political
 preferences. When do individual political preferences of people
 align with those of their employers? I theorize that firms and sectors with more specific
