@@ -13,21 +13,14 @@ redirect_from:
   * **Abstract**: In this paper, I investigate the economic sources of individuals’ political
   preferences. When do individual political preferences of people
   align with those of their employers? I theorize that firms and sectors with more specific
-  assets are more stuck in their geographic location and less adaptable in the case of
+  assets are more bound to their geographic location and less adaptable in the case of
   averse economic shocks. Therefore, employees should show more partisan alignment
   if they work in firms or sectors with more specific assets. However, observing both
   company and employee political preferences is difficult in practice.
   First, I match 1,691,790 campaign contribution filings of 85,109 individuals to 874
   publicly listed firms and 850 occupations using US campaign finance data between
-  2003 and 2016. I accomplish this by employing natural language processing techniques
-  to automatically identify employer names and employee occupations. Second,
-  I show that most of the variation in partisan alignment between company
-  and employee donations is at the industry level. Third, I find that employees in companies with more non-mobile assets are more
-  aligned. I also find that this relationship
-  differs by partisanship of alignment: while Republican alignment is higher in sectors
-  with more specific assets, Democratic alignment is systematically lower. Similarly, I
-  find that employees in the same firms and occupations are significantly more aligned
-  in red compared to blue states.
+  2003 and 2016 using natural language processing techniques
+  to automatically identify employer names and employee occupations. Second, I find that employees in companies with more non-mobile assets  are more aligned. Finally, I show that most of the variation in partisan alignment is at the industry level, which goes contrary to new theories emphasizing individual occupation as a source of  political preferences.
 
 
 * **Political Uncertainty, FDI, and Trade in intermediate Goods: Evidence From Ukrainian Firms**, with Oleksandr Shepotylo, _under review_
