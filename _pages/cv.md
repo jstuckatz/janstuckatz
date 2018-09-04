@@ -1,6 +1,8 @@
 ---
 title: "CV"
 permalink: /cv/
+layout: single
+classes: wide
 author_profile: true
 redirect_from:
   - /resume
