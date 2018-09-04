@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-layout: single
+layout: archive
 title: "Research"
 excerpt: "Current Research"
 author_profile: true
@@ -9,11 +9,6 @@ redirect_from:
 ---
 
 ## Definition Lists
-
-Download
-:   Click [here for link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2983695)
-HALLO HALLO
-
 
 * **Political Alignment between Firms and Employees: The Role of Asset Specificity**
   * **Abstract**: In this paper, I investigate the economic sources of individuals’ political
@@ -52,5 +47,10 @@ HALLO HALLO
   of uncertainty can be easily applied to other cases where governments face multiple
   mutually exclusive policy options.
  
- 
+<!--- 
+#{% include base_path %}
+#{% for post in site.pages %}
+#{% include archive-single.html %}
+#{% endfor %}
+--> 
  
