@@ -1,6 +1,7 @@
 ---
 permalink: /research/
-layout: archive
+layout: single
+classes: wide
 title: "Research"
 excerpt: "Current Research"
 author_profile: true
