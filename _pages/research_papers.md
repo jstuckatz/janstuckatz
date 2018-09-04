@@ -9,8 +9,6 @@ redirect_from:
 
 ---
 
-## Definition Lists
-
 * **Political Alignment between Firms and Employees: The Role of Asset Specificity**
   * **Abstract**: In this paper, I investigate the economic sources of individuals’ political
   preferences. When do individual political preferences of people
