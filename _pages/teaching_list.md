@@ -1,5 +1,7 @@
 ---
 title: "Teaching"
+layout: single
+classes: wide
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -8,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-* **IR209: International Political Economy** [link to course](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/International-Relations-Government-and-Society/IR209)
+* **IR209: International Political Economy** [link to course](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/International-Relations-Government-and-Society/IR209) 
   * Graduate Teaching Assistant
   * LSE Summer School, undergraduate, Summer Term 2017 and 2018
   * Course Convenor: _Dr. Jeffrey Chwieroth_
