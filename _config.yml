@@ -197,6 +197,7 @@ defaults:
       comments: true
       share: true
       related: true
+      classes: wide
   # _pages
   - scope:
       path: ""
@@ -204,6 +205,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
   # _teaching
   - scope:
       path: ""
@@ -213,6 +215,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      classes: wide
   # _publications
   - scope:
       path: ""
@@ -222,6 +225,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      classes: wide
   # _portfolio
   - scope:
       path: ""
@@ -231,6 +235,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      classes: wide
   # _talks
   - scope:
       path: ""
