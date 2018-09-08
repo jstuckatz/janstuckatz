@@ -15,4 +15,4 @@ I use machine learning and quantitative text analysis in order to generate origi
 
 I am looking forward to teach courses in International Political Economy, Money in Politics, and Quantitative Methods.
 
-Feel free to contact me under my [email](mailto:j.stuckatz@lse.ac.uk)
+Feel free to contact me under my [email](mailto:j.stuckatz@lse.ac.uk).
