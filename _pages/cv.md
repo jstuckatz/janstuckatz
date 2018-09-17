@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV as .pdf file [here](https://github.com/jstuckatz/janstuckatz/blob/master/files/CV_EN_full_web.pdf).
+You can download my CV as .pdf file [here](https://www.dropbox.com/s/m827jbqism97hgp/CV_EN_full_web.pdf?dl=0).
 
 Education
 ======
