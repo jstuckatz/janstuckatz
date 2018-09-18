@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a PhD candidate at [Government Department](http://www.lse.ac.uk/government) of the [London School of Economics and Political Science](www.lse.ac.uk). 
 
-I study the Political Economy of International Trade and Corporate Influence in Politics. 
+I study the **Political Economy of International Trade** and **Corporate Influence in Politics**. 
 
 I research the economic determinants and effects of political alignment between corporations and their employees as well as the impact of political uncertainty on firm-level trade and investment. Moreover, I study how companies combine lobbying and campaign finance in order to influence politics. My PhD dissertation is supervised by [Prof. Stephanie Rickard](http://personal.lse.ac.uk/rickard/) and [Prof. Kenneth Benoit](http://kenbenoit.net/).  
 
