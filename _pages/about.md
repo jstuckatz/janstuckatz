@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate at the [Government Department](http://www.lse.ac.uk/government) at the [London School of Economics and Political Science](www.lse.ac.uk). 
+I am a PhD candidate in Political Science at the [Government Department](http://www.lse.ac.uk/government) at the [London School of Economics and Political Science(LSE)](www.lse.ac.uk). 
 
 I study the **Political Economy of International Trade** and **Corporate Influence in Politics**. 
 
