@@ -22,5 +22,5 @@ redirect_from:
  
 * **SSPP362: International Trade** [link to syllabus](http://pierrelouisvezina.weebly.com/uploads/2/3/4/2/2342194/syllabus_6sspp362__2017.docx)
   * Graduate Teaching Assistant
-  * King's College London, undergraduate, Fall Term 2017
+  * King's College London, undergraduate, Fall Term 2016
   * Course Convenor: _Dr. Pierre-Louis Vezina_
