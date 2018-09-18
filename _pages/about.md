@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brief Bio"
+title: "Jan Stuckatz"
 excerpt: "Brief Bio"
 author_profile: true
 redirect_from: 
