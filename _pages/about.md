@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate in Political Science at the [Government Department](http://www.lse.ac.uk/government) at the [London School of Economics and Political Science (LSE)](www.lse.ac.uk) specializing in International Political Economy and Political Methodology. 
 
-My research agenda combines the political economy of trade and corporate influence in politics, with a special emphasis on firm-level analysis. This novel agenda is made possible by the availability of big data on corporate political activity and trade policy, and my unique training in machine learning techniques and data science tools.
+My research agenda combines political economy of trade and corporate influence in politics, with a special emphasis on firm-level analysis. This novel agenda is made possible by the availability of big data on corporate political activity and trade policy, and my unique training in machine learning techniques and data science tools.
 
 In my dissertation, supervised by [Stephanie Rickard](http://personal.lse.ac.uk/rickard/) and [Kenneth Benoit](http://kenbenoit.net/), I build on trade theory to examine the relationship between corporations and politics. Corporations play an increasingly important role in politics today and understanding how corporations influence politics and respond to political change is therefore of growing importance. 
 
