@@ -11,23 +11,15 @@ redirect_from:
 
 * **Political Alignment between Firms and Employees: The Role of Asset Specificity**
   * **Abstract**: Do individual political preferences of people align with those of their employers? I argue that firms with more specific assets are more vulnerable to adverse policy changes. Hence, the fate of jobs is tied more closely to the firm and employees are more likely to share political preferences with their employers. However, simultaneously observing both company and employee preferences is difficult in practice. First, I match 1,691,790 campaign contribution filings of 85,109 individuals to 874 publicly listed firms and 850 occupations using US campaign finance data between 2003 and 2016. I accomplish this by employing natural language processing techniques to automatically identify employer names and employee occupations. Second, I test my argument and find that employees in companies with more specific assets are more aligned with their employer, holding constant individual occupation. Finally, I show that most of the variation in alignment is at the industry level. These results highlight the continuing importance of sectoral models for political preferences formation, contrary to a current trend towards occupational models.
-
+  
 
 * **Political Uncertainty, FDI, and Trade in intermediate Goods: Evidence From Ukrainian Firms**, with Oleksandr Shepotylo, _under review_
   * Click [here for link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2983695)
-  * **Abstract**: We extend a model with heterogeneous firms and argue that trade policy uncertainty (TPU) 
-  negatively impacts firm-specific investment and firm-level decision to source intermediate goods. 
-  We look at Ukraine’s trade relations with EU and Russia to measure
-  TPU and test our predictions. Ukrainian firms faced considerable uncertainty
-  with regards to two mutually exclusive trade policies: the conclusion of a free trade
-  agreement (FTA) with the European Union or a customs union with Russia. Using
-  unique firm-product level data and FDI data of Ukrainian manufacturing firms between
-  2003 and 2014, we find a substantive increase in firm-level FDI inflows and
-  imported intermediate goods from EU countries, and a decrease in FDI from the Customs
-  Union, once uncertainty with regards to the EU FTA is reduced. Moreover,
-  more protected goods respond stronger to a reduction in TPU. The novel measure
-  of uncertainty can be easily applied to other cases where governments face multiple
-  mutually exclusive policy options.
+  * **Abstract**: We explore the effects of policy uncertainty on firm-level trade and introduce a new method to measure uncertainty using machine learning tools for quantitative text analysis. We extend a model with heterogeneous firms and sunk investments by adding intermediate inputs to derive hypotheses about the impact of trade policy uncertainty (TPU) on firm's decision to import intermediate and capital goods. We look at Ukraine’s trade relations with EU and Russia to measure TPU and test predictions of our model. Ukrainian firms faced considerable uncertainty with regards to two mutually exclusive trade policies: the conclusion of a free trade agreement with the European Union (EU FTA) or a customs union with Russia (RU CU). Using unique firm-product-destination level data from Ukrainian manufacturing firms between 2003 and 2014, we find a substantive increase in firm-level exports to and imports from EU countries, once uncertainty with regards to the EU FTA is reduced. In line with our expectations, more protected goods, intermediates, and capital goods respond stronger to the reduction in TPU. The novel measure of uncertainty can be easily applied to other cases where governments face multiple mutually exclusive policy options.
+  
+  * **Political Alignment between Firms and Employees and Lobbying Effectiveness**
+  * **Abstract**: Does firm-employee political alignment affect lobbying activity and effectiveness? This question is important because existing models lead to opposite theoretical expectations. Collective action theory would predict that more politically cohesive firms will be more likely to lobby and hence, be more effective in achieving their political goals. However, from an investment perspective firms which split donations equally between parties would lobby more effectively, hedging their bets in the case of political change. I theorize that politically aligned companies will be more likely to overcome collective action problems and engage in lobbying in the first place, but that companies splitting donations between parties will be more effective in getting preferred legislation passed.  I test these expectations using linked US campaign finance and lobbying data between 1999 and 2016. First, I match campaign donations of firms to bill-level lobbying activity of the same companies. Second, I test the impact of alignment on the number of bills lobbied and the likelihood of bill passage. The paper reconciles collective action and investment theory perspectives on corporate political activity and provides an empirical contribution by linking large-scale data on lobbying and campaign donations at the firm-level.
+
  
 <!--- 
 #{% include base_path %}
