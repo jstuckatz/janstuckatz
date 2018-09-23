@@ -19,6 +19,6 @@ Education
   * MRes in Political Science, London School of Economics and Political Science (LSE), _with distinction_ 09/2016
  
 * **MA Political Science, Free University Berlin**, 08/2015
-  * Visiting Ph.D. Student at Vanderbilt University, Political Science Department,  08/2015 - 05/2016
+  * Visiting Ph.D. Student at Vanderbilt University, Political Science Department,  08/2013 - 05/2014
   
 * **BA Social Studies, European University Viadrina Frankfurt (Oder)**, 03/2012
