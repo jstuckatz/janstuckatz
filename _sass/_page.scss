@@ -17,11 +17,11 @@
 }
 
 .page {
-   @include grid(12,10); // page width?
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
+    @include grid(12,11); // page width?
   }
 
   .page__inner-wrap {
