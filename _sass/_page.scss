@@ -17,6 +17,8 @@
 }
 
 .page {
+   @include container; // width of box
+   @include grid(12,10);
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
