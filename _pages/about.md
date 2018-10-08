@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Political Science at the [Government Department](http://www.lse.ac.uk/government) at the [London School of Economics and Political Science (LSE)](www.lse.ac.uk) specializing in International Political Economy and Political Methodology. 
+I am a PhD candidate in Political Science at the [Government Department](http://www.lse.ac.uk/government/people/research-students/jan-stuckatz) at the [London School of Economics and Political Science (LSE)](www.lse.ac.uk) specializing in International Political Economy and Political Methodology. 
 
 My **research agenda combines political economy of trade and corporate influence in politics**, with a special emphasis on firm-level analysis. This novel agenda is made possible by the availability of big data on corporate political activity and trade policy, and my unique training in machine learning techniques and data science tools.
 
