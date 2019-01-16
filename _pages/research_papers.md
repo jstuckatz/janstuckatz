@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-**Political Alignment between Firms and Employees: The Role of Asset Specificity**, _job market paper_, [Download](https://www.dropbox.com/s/epbnpfkid5m3r2a/alignment_draft_jan19.pdf?dl=0)
+**Political Alignment between Firms and Employees: The Role of Asset Specificity**, _job market paper_, [Download](https://www.dropbox.com/s/9ihnrmissflzsax/alignment_draft_jan19.pdf?dl=0)
   * **Abstract**:  When do political preferences of employees align with those of their employers? Comparative and International Political Economy scholars debate whether sectors, firms, or occupations matter more for political preference formation. While some empirical research confirms the impact of sectoral or firm specificity others highlight occupational skill specificity. I provide evidence on firm-employee alignment from a new dataset of 1,691,790 campaign contribution filings by 85,109 employees working in 874 publicly listed firms, using US campaign finance data between 2003 and 2016. I find that employees in companies and sectors with more asset specificity are more aligned with their employer, but no evidence for the impact of occupational skill specificity. I also show that employees donate more to candidates once their employers start donating to the same candidates, providing a mechanism for firm-employee alignment. This paper highlights the important role of corporations in shaping individual political preferences and participation.
   
 
