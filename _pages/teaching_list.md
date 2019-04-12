@@ -13,12 +13,12 @@ redirect_from:
 * **IR209: International Political Economy** ([link to course](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/International-Relations-Government-and-Society/IR209)) 
   * Graduate Teaching Assistant
   * LSE Summer School, undergraduate, Summer Term 2017 ([evaluations](https://www.dropbox.com/s/vg3gteah417c5s9/IR209_2017_evaluation_survey%20results_jan_stuckatz.pdf?dl=0)) and 2018 ([evaluations](https://www.dropbox.com/s/azlrzzh0iiumhr5/IR209_2018_evaluation_survey%20results_jan_stuckatz_1.pdf?dl=0))
-  * Course Convenor: _Dr. Jeffrey Chwieroth_
+  * Course Convenor: _Prof. Jeffrey Chwieroth_
 
 * **EC210: The International Financial System in Post-Crisis World** ([link to course](http://www.lse.ac.uk/study-at-lse/Summer-Schools/lse-pku-summer-school/courses/lps-ec210))
   * Graduate Teaching Assistant
-  * LSE-Peking University Summer School, undergraduate, Summer Term 2018
-  * Course Convenor: _Dr. Jeffrey Chwieroth_
+  * LSE-Peking University Summer School, undergraduate, Summer Term 2018 and 2019
+  * Course Convenor: _Prof. Jeffrey Chwieroth_
  
 * **SSPP362: International Trade** ([link to syllabus](http://pierrelouisvezina.weebly.com/uploads/2/3/4/2/2342194/syllabus_6sspp362__2017.docx))
   * Graduate Teaching Assistant
