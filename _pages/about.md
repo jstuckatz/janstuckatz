@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Political Science at the [Government Department](http://www.lse.ac.uk/government/people/research-students/jan-stuckatz) of the [London School of Economics and Political Science (LSE)](www.lse.ac.uk) specializing in International Political Economy and Political Methodology. 
+I am a PhD candidate in Political Science at the [Government Department](http://www.lse.ac.uk/government/people/research-students/jan-stuckatz) of the [London School of Economics and Political Science (LSE)](www.lse.ac.uk) specializing in International Political Economy and Political Methodology. From September 2019 onwards, I will be a Research Fellow at the [Institute for Advanced Study in Toulouse (IAST)](http://www.iast.fr/).
 
-My **research agenda combines political economy of trade and corporate influence in politics**, with a special emphasis on firm-level analysis. This novel agenda is made possible by the availability of big data on corporate political activity and trade policy, and my unique training in machine learning techniques and data science tools.
+My **research combines political economy of trade and corporate influence in politics**, with a special emphasis on firm-level analysis. This novel agenda is made possible by the availability of big data on corporate political activity and trade policy, and my training in machine learning techniques and data science tools.
 
 In my **dissertation**, supervised by [Stephanie Rickard](http://personal.lse.ac.uk/rickard/) and [Kenneth Benoit](http://kenbenoit.net/), I build on trade theory to examine the relationship between corporations and politics. Corporations play an increasingly important role in politics today and understanding how corporations influence politics and respond to political change is therefore of growing importance. 
 
