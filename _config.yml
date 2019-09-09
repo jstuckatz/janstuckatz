@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Jan Stuckatz"
   avatar           : "jan-stuckatz-web.jpg"
-  bio              : "PhD Candidate in International Political Economy @LSE"
-  location         : "London, UK"
+  bio              : "Research Fellow in Political Economy @IAST"
+  location         : "Toulouse, France"
   employer         :
   #googlescholar    : "" # here put google scholar account
-  email            : "j.stuckatz@lse.ac.uk"
+  email            : "jan.stuckatz@iast.fr"
   uri              : "http://www.janstuckatz.com/"
   bitbucket        :
   codepen          :
