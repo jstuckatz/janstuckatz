@@ -14,7 +14,7 @@ My **research combines political economy of trade and corporate influence in pol
 
 In my **dissertation**, supervised by [Stephanie Rickard](http://personal.lse.ac.uk/rickard/) and [Kenneth Benoit](http://kenbenoit.net/), I build on trade theory to examine the relationship between corporations and politics. Corporations play an increasingly important role in politics today and understanding how corporations influence politics and respond to political change is therefore of growing importance. 
 
-Throughout the academic year 2017/2018, I have been a visiting student at the [Political Science Department](https://polisci.mit.edu/) of the [Massachusetts Institute of Technology](http://www.mit.edu/), hosted by [In Song Kim](http://web.mit.edu/insong/www/index.html).
+Throughout the academic year 2017/2018, I have been visiting at the [Political Science Department](https://polisci.mit.edu/) of the [Massachusetts Institute of Technology](http://www.mit.edu/), hosted by [In Song Kim](http://web.mit.edu/insong/www/index.html).
 
 I am looking forward to teaching courses in International Political Economy, Money in Politics, and Quantitative Methods.
 
