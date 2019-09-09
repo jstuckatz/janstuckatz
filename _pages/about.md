@@ -18,4 +18,4 @@ Throughout the academic year 2017/2018, I have been a visiting student at the [P
 
 I am looking forward to teaching courses in International Political Economy, Money in Politics, and Quantitative Methods.
 
-Feel free to contact me via [email](mailto:jan.stuckatz@iast.fr).
+On this website, you will find my [research](http://www.janstuckatz.com/research/), my [teaching experience](http://www.janstuckatz.com/teaching/), and my [curriculum vitae](http://www.janstuckatz.com/cv/). Feel free to contact me via [email](mailto:jan.stuckatz@iast.fr).
