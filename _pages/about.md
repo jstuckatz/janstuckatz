@@ -3,18 +3,24 @@ permalink: /
 title: "Brief Bio"
 excerpt: "Brief Bio"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a PhD candidate in Political Science at the [Government Department](http://www.lse.ac.uk/government/people/research-students/jan-stuckatz) of the [London School of Economics and Political Science (LSE)](www.lse.ac.uk) specializing in International Political Economy and Political Methodology. From September 2019 onwards, I will be a Research Fellow at the [Institute for Advanced Study in Toulouse (IAST)](http://www.iast.fr/).
+I am Post-Doctoral [Research Fellow](https://www.iast.fr/people/jan-stuckatz) at the [Institute for Advanced Study in Toulouse (IAST)](http://www.iast.fr/)) specializing in Political Economy and Political Methodology.
 
 My **research combines political economy of trade and corporate influence in politics**, with a special emphasis on firm-level analysis. This novel agenda is made possible by the availability of big data on corporate political activity and trade policy, and my training in machine learning techniques and data science tools.
 
-In my **dissertation**, supervised by [Stephanie Rickard](http://personal.lse.ac.uk/rickard/) and [Kenneth Benoit](http://kenbenoit.net/), I build on trade theory to examine the relationship between corporations and politics. Corporations play an increasingly important role in politics today and understanding how corporations influence politics and respond to political change is therefore of growing importance. 
+In particular, my work evolves around three major themes. First, in my work on the political economy of U.S. campaign contributions, I examine when and why employees' political contributions align with those of their company. Using big data linking corporate and employee donations, I find that a substantive share of employee contributions goes to firm-supported candidates. Moreover, aligned donations are consistent with interests of the employer, and some employees even change partisanship of their contributions in line with their employer.  This evidence suggests that individual donations are more investment-driven (and less ideologically motivated) than previously thought.
 
-Throughout the academic year 2017/2018, I have been visiting at the [Political Science Department](https://polisci.mit.edu/) of the [Massachusetts Institute of Technology](http://www.mit.edu/), hosted by [In Song Kim](http://web.mit.edu/insong/www/index.html).
+Second, in joint work on corporate influence in politics with In Song Kim (MIT) and Lukas Wolters (MIT), we research when interest groups use campaign contributions to target politicians and whether such political investments indeed change subsequent legislative behaviour. We provide causal estimates showing a large and positive relationship between donations, lobbying, and legislative behaviour of politicians. The effects are extremely short-term, thus challenging the common perception of donations as a long-term political investment.
+
+Finally, in work on the political economy of trade, together with Oleksandr Shepotylo (Aston University), we study the impact of political uncertainty on firm's decisions to source intermediate inputs. Using a unique panel of Ukrainian manufacturing firms, we find that uncertainty significantly affects imports, particularly for capital-intensive goods important for technological upgrading.
+
+<!-- In my **dissertation**, supervised by [Stephanie Rickard](http://personal.lse.ac.uk/rickard/) and [Kenneth Benoit](http://kenbenoit.net/), I build on trade theory to examine the relationship between corporations and politics. Corporations play an increasingly important role in politics today and understanding how corporations influence politics and respond to political change is therefore of growing importance.  -->
+
+<!-- Throughout the academic year 2017/2018, I have been visiting at the [Political Science Department](https://polisci.mit.edu/) of the [Massachusetts Institute of Technology](http://www.mit.edu/), hosted by [In Song Kim](http://web.mit.edu/insong/www/index.html). -->
 
 I am looking forward to teaching courses in International Political Economy, Money in Politics, and Quantitative Methods.
 
