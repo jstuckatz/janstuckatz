@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Post-Doctoral [Research Fellow](https://www.iast.fr/people/jan-stuckatz) at the [Institute for Advanced Study in Toulouse (IAST)](http://www.iast.fr/)) specializing in Political Economy and Political Methodology.
+I am Post-Doctoral [Research Fellow](https://www.iast.fr/people/jan-stuckatz) at the [Institute for Advanced Study in Toulouse (IAST)](http://www.iast.fr/) specializing in Political Economy and Political Methodology.
 
 My **research combines political economy of trade and corporate influence in politics**, with a special emphasis on firm-level analysis. This novel agenda is made possible by the availability of big data on corporate political activity and trade policy, and my training in machine learning techniques and data science tools. In particular, my work evolves around three major themes.
 
