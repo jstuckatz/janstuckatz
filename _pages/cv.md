@@ -10,9 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV as PDF file ([here](dl.dropboxusercontent.com/s/gdscez6xqclon7a/CV_EN_Jan_Stuckatz.pdf?dl=0)). 
-
-Also, another ([link to course](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/International-Relations-Government-and-Society/IR209))
+You can download my CV as PDF file ([link to course](https://www.dropbox.com/s/gdscez6xqclon7a/CV_EN_Jan_Stuckatz.pdf?dl=0)). 
 
 Academic Positions
 ======
