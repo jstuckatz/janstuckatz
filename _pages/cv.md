@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV as PDF file ([link to course](https://www.dropbox.com/s/gdscez6xqclon7a/CV_EN_Jan_Stuckatz.pdf?dl=0)). 
+You can download my CV as PDF file ([here](https://www.dropbox.com/s/gdscez6xqclon7a/CV_EN_Jan_Stuckatz.pdf?dl=0)). 
 
 Academic Positions
 ======
