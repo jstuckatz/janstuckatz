@@ -8,7 +8,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 You can download my CV as PDF file [here](dl.dropboxusercontent.com/s/gdscez6xqclon7a/CV_EN_Jan_Stuckatz.pdf?dl=0).
 
