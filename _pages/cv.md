@@ -12,6 +12,8 @@ redirect_from:
 
 You can download my CV as PDF file ([here](dl.dropboxusercontent.com/s/gdscez6xqclon7a/CV_EN_Jan_Stuckatz.pdf?dl=0)). 
 
+Also, another ([link to course](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/International-Relations-Government-and-Society/IR209))
+
 Academic Positions
 ======
 * **Research Fellow, Institute for Advanced Study in Toulouse (IAST)**, from 09/2019
