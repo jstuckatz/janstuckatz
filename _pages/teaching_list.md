@@ -28,3 +28,13 @@ redirect_from:
   * Graduate Teaching Assistant
   * King's College London, undergraduate, Fall Term 2016 ([evaluations](https://www.dropbox.com/s/mn2jzidy10sts47/6SSPP362_International_Trade_2016_evaluations_Jan_Stuckatz.pdf?dl=0))
   * Course Convenor: _Dr. Pierre-Louis Vezina_
+
+ * **Introduction to International Relations** 
+  * Teaching Assistant
+  * European University Viadrina Frankfurt (Oder), undergraduate, Spring Term 2012
+  * Course Convenor: _Prof. Jürgen Neyer_
+
+ * **Introduction to Political Science** 
+  * Teaching Assistant
+  * European University Viadrina Frankfurt (Oder), undergraduate, Spring Term 2011
+  * Course Convenor: _Dr. Anne Faber_
