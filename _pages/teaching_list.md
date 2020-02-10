@@ -12,7 +12,7 @@ redirect_from:
 
 * **Quantitative Text Analysis in R** 
   * Short Course during Very Applied Methods Workshop Series, London School of Economics and Political Science, PhD-level, Fall 2018
-  * Co-taught with ([Tom Paskhalis](https://tom.paskhal.is/))
+  * _Co-taught with [Tom Paskhalis](https://tom.paskhal.is/)_
 
 * **IR209: International Political Economy** ([link to course](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/International-Relations-Government-and-Society/IR209))
   * Graduate Teaching Assistant
