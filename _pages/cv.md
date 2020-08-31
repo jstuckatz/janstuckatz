@@ -14,7 +14,7 @@ You can download my CV as PDF file ([here](https://www.dropbox.com/s/gdscez6xqcl
 
 Academic Positions
 ======
-* **Research Fellow, Institute for Advanced Study in Toulouse (IAST)**, from 09/2019
+* **Research Fellow, Institute for Advanced Study in Toulouse (IAST)**, from 09/2019 --- today.
 
 Education
 ======
@@ -23,6 +23,6 @@ Education
   * MRes in Political Science, London School of Economics and Political Science (LSE), _with distinction_ 09/2016
 
 * **MA Political Science, Free University Berlin**, 08/2015
-  * Visiting Ph.D. Student at Vanderbilt University, Political Science Department,  08/2013 - 05/2014
+  * Visiting MA Student at Vanderbilt University, Political Science Department,  08/2013 - 05/2014
 
 * **BA Social Studies, European University Viadrina Frankfurt (Oder)**, 03/2012
