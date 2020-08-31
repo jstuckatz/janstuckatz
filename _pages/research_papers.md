@@ -27,6 +27,15 @@ redirect_from:
   **Strategic Complementarities between Campaign Donations and Lobbying**, with In Song Kim and Lukas Wolters, _work in progress_
   * **Abstract**: We offer the first large scale analysis of the direct link between campaign donations and lobbying --- two distinct political activities that have been mostly studied separately. Using over 75 million lobbying reports and campaign contribution filings since 1999, merged at the level of interest groups and legislators, we demonstrate that interest groups not only target politicians strategically when they make donations, but also arrange the two activities sequentially. Specifically, we show that donations to politicians are directly related to subsequent lobbying efforts and the legislative activities of the targeted politicians. To analyze the sequential link, while accounting for potential confounding between the two activities, we use the difference-in-differences identification strategy combined with matching methods. In particular, we compare firms that make a donation to a politician against a set of comparable firms with no donation history to the same politician. We find that campaign donations result in an 8.5 percentage point increase in the probability that the targeted politician involves in legislative activities that are directly tied to the interests of the donating firm. The effects are large, short-term, and particularly pronounced for committee consideration. Our findings question the common perception of donations as mere consumption or long-term investment strategy.
 
+**Strategic Coordination between Multinational Lobbying on International Trade at Home and Abroad**, with Jieun Lee, _work in progress_
+
+**Shifting Profits, Shifting Lobbying: Tax Avoidance and U.S. Multinational’s Lobbying at Home and Abroad.**, with Jieun Lee, _work in progress_
+
+**Who became a Nazi? A Structured Database of the German Denazification Questionnaires, 1945–1949**, with Selina Hofstetter, Victor Gay, and Mikkel Dack, _work in progress_
+
+
+
+
 <!---
 #{% include base_path %}
 #{% for post in site.pages %}
