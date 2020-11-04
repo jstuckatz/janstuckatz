@@ -11,9 +11,9 @@ title                    : "Jan Stuckatz"
 title_separator          : "-"
 name                     : &name "Jan Stuckatz"
 description              : &description "personal description"
-url                      : https://jstuckatz.github.io/janstuckatz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://jstuckatz.github.io/janstuckatz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/jstuckatz/janstuckatz"
+repository               : "http://github.com/jstuckatz/janstuckatz"
 teaser                   : "jan-stuckatz-web.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
